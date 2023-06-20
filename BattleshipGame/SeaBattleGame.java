@@ -1,6 +1,3 @@
-
-
-
 import java.util.Scanner;
 
 public class SeaBattleGame {
@@ -55,7 +52,7 @@ class GameBoard {
             }
         }
     }
-
+// Basirahmanov Raimjan
     private void placeShips() {
         board[0][0] = 'S'; 
         board[2][4] = 'S'; 
